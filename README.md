@@ -1,4 +1,7 @@
 # Diaformer
+
+### [Diaformer: Automatic Diagnosis via Symptoms Sequence Generation (AAAI 2022)](https://arxiv.org/abs/2112.10433)
+
 ### Diaformer is an efficient model for automatic diagnosis via symptoms sequence generation. It takes the sequence of symptoms as input, and predicts the inquiry symptoms in the way of sequence generation.
 
 <p align="center">
