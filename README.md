@@ -2,11 +2,12 @@
 ### Diaformer is an efficient model for automatic diagnosis via symptoms sequence generation. It take the sequence of symptoms as input, and predict the inquiry symptom in the way of sequence generation.
 
 <p align="center">
-  <img align="center" src="./images/diaformer.png" />
+  <img align="center" src="image/diaformer.png" />
 </p>
 <p align="center">
   <b>Figure 1:</b> Illustration of symptom attention framework.
 </p>
+
 
 
 
@@ -66,21 +67,21 @@ pip install -r requirement.txt
    python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5
    ```
 
-	**Diaformer$_{GPT2}$**
+	**Diaformer_GPT2**
    
    ```bash
    # Train and test on GPT2 variant of Diaformer
    python GPT2_variant.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5
    ```
    
-    **Diaformer$_{UniLM}$**
-   
+    **Diaformer_UniLM**
+  
    ```bash
    # Train and test on UniLM variant of Diaformer
    python UniLM_variant.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5
    ```
    
-    **ablation study**
+    **Ablation study**
    
    ```bash
    # run ablation study
@@ -90,11 +91,11 @@ pip install -r requirement.txt
    # w/o Synchronous Learning
    python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 10 --no_synchronous_learning
    
-   # Run on Repeated Sequence
+   # w/o Repeated Sequence
    python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 10 --no_repeated_sequence
    ```
    
-    **generative inference** 
+    **Generative inference** 
    
    ```shell
    # save the model
