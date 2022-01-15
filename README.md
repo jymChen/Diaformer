@@ -1,5 +1,5 @@
 # Diaformer
-### Diaformer is an efficient model for automatic diagnosis via symptoms sequence generation. It take the sequence of symptoms as input, and predict the inquiry symptom in the way of sequence generation.
+### Diaformer is an efficient model for automatic diagnosis via symptoms sequence generation. It takes the sequence of symptoms as input, and predicts the inquiry symptoms in the way of sequence generation.
 
 <p align="center">
   <img align="center" src="image/diaformer.png" />
