@@ -67,21 +67,21 @@ pip install -r requirement.txt
    python Diaformer.py --dataset_path data/dxy_dataset --batch_size 16 --lr 5e-5 --min_probability 0.012 --max_turn 20 --start_test 10 
    
    # Run on Synthetic dataset
-   python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5
+   python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 10
    ```
 
 	**Diaformer_GPT2**
    
    ```bash
    # Train and test on GPT2 variant of Diaformer
-   python GPT2_variant.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5
+   python GPT2_variant.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 10
    ```
    
     **Diaformer_UniLM**
   
    ```bash
    # Train and test on UniLM variant of Diaformer
-   python UniLM_variant.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5
+   python UniLM_variant.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 10
    ```
    
     **Ablation study**
@@ -102,7 +102,7 @@ pip install -r requirement.txt
    
    ```shell
    # save the model
-   python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 5 --model_output_path models
+   python Diaformer.py --dataset_path data/synthetic_dataset --batch_size 16 --lr 5e-5 --min_probability 0.01 --max_turn 20 --start_test 10 --model_output_path models
    # use the trained model to output the results
    python predict.py --dataset_path data/synthetic_dataset --min_probability 0.01 --max_turn 20 --pretrained_model models/ --result_output_path results.json
    ```
