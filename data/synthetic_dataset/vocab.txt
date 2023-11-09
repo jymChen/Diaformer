@@ -1,0 +1,365 @@
+[PAD]
+[PAD2]
+[UNK]
+[SEP]
+[CLS]
+[MASK]
+[true]
+[false]
+Skin irritation
+Knee weakness
+Itchy eyelid
+Disturbance of memory
+Thirst
+Lower body pain
+Difficulty in swallowing
+Lymphedema
+Eyelid swelling
+Muscle cramps, contractures, or spasms
+Itching of scrotum
+Elbow cramps or spasms
+Shoulder pain
+Congestion in chest
+Wrist stiffness or tightness
+Bleeding or discharge from nipple
+Foot or toe lump or mass
+Vaginal discharge
+Back pain
+Feet turned in
+Hurts to breath
+Joint stiffness or tightness
+Abnormal appearing skin
+Low back weakness
+Kidney mass
+Ringing in ear
+Skin dryness, peeling, scaliness, or roughness
+Fever
+Insomnia
+Anxiety and nervousness
+Frequent urination
+Swollen eye
+Decreased heart rate
+Intermenstrual bleeding
+Painful urination
+Diarrhea
+Cross-eyed
+Painful sinuses
+Low back pain
+Double vision
+Sweating
+Itchy scalp
+Problems during pregnancy
+Side pain
+Bleeding gums
+Feeling cold
+Wrist lump or mass
+Eyelid lesion or rash
+Difficulty breathing
+Stiffness all over
+Nightmares
+Muscle weakness
+Unwanted hair
+Skin on arm or hand looks infected
+Mass on eyelid
+Fears and phobias
+Diminished vision
+Poor circulation
+Back mass or lump
+Polyuria
+Muscle stiffness or tightness
+Scanty menstrual flow
+Long menstrual periods
+Shortness of breath
+Bladder mass
+Incontinence of stool
+Vomiting
+Pain in testicles
+Loss of sex drive
+Weight gain
+Headache
+Seizures
+Knee lump or mass
+Heavy menstrual flow
+Ache all over
+Lack of growth
+Spotting or bleeding during pregnancy
+Abnormal size or shape of ear
+Palpitations
+Wrist swelling
+Arm stiffness or tightness
+Frequent menstruation
+Dizziness
+Elbow pain
+Shoulder cramps or spasms
+Delusions or hallucinations
+Eye strain
+Mass in scrotum
+Nailbiting
+Facial pain
+Hand or finger weakness
+Wrist weakness
+Fatigue
+Depressive or psychotic symptoms
+Back stiffness or tightness
+Ankle pain
+Vomiting blood
+Vaginal pain
+Feeling ill
+Emotional symptoms
+Drainage in throat
+Allergic reaction
+Chills
+Sneezing
+Wrinkles on skin
+Hemoptysis
+Disturbance of smell or taste
+Temper problems
+Diaper rash
+Hand or finger lump or mass
+Swollen abdomen
+Skin lesion
+Weakness
+Leg cramps or spasms
+Penile discharge
+Arm pain
+Neck cramps or spasms
+Cough
+Ear pain
+Abnormal movement of eyelid
+Hand or finger stiffness or tightness
+Bleeding from eye
+Neck pain
+Plugged feeling in ear
+Foot or toe swelling
+Blood in urine
+Pus in sputum
+Fainting
+Hip stiffness or tightness
+Neck stiffness or tightness
+Arm lump or mass
+Increased heart rate
+Decreased appetite
+Infrequent menstruation
+Drug abuse
+Knee swelling
+Hand or finger swelling
+Itching of skin
+Knee stiffness or tightness
+Mass on vulva
+Eye redness
+Problems with movement
+Sinus congestion
+Eye deviation
+Hysterical behavior
+Knee pain
+Irregular appearing scalp
+Apnea
+Foot or toe pain
+Suprapubic pain
+Vaginal bleeding after menopause
+Fluid retention
+Infant spitting up
+Symptoms of the kidneys
+Blindness
+Sharp chest pain
+Shoulder swelling
+Burning abdominal pain
+Difficulty eating
+Elbow weakness
+Muscle swelling
+Irregular heartbeat
+Swollen or red tonsils
+Vulvar sore
+Absence of menstruation
+Pulling at ears
+Difficulty speaking
+Irritable infant
+Abusing alcohol
+Redness in ear
+Skin moles
+Vaginal itching
+Nasal congestion
+Ankle swelling
+Eye burns or stings
+Leg swelling
+Irregular belly button
+Shoulder stiffness or tightness
+Peripheral edema
+Joint pain
+Penis pain
+Ankle stiffness or tightness
+Groin mass
+Feeling hot and cold
+Pain in eye
+Paresthesia
+Spots or clouds in vision
+Hip pain
+Sleepiness
+Pain during intercourse
+Lower abdominal pain
+Acne or pimples
+Itchiness of eye
+Unpredictable menstruation
+Arm weakness
+Cramps and spasms
+Restlessness
+Muscle pain
+Frontal headache
+Nausea
+Hostile behavior
+Infertility
+Groin pain
+Mouth ulcer
+Too little hair
+Warts
+Pus in urine
+Involuntary urination
+Chest tightness
+Dry or flaky scalp
+Wrist pain
+Throat swelling
+Hoarse voice
+Pain or soreness of breast
+White discharge from eye
+Depression
+Skin growth
+Skin pain
+Excessive growth
+Retention of urine
+Diminished hearing
+Lip swelling
+Neck swelling
+Penis redness
+Skin swelling
+Fluid in ear
+Back cramps or spasms
+Bowlegged or knock-kneed
+Leg weakness
+Skin rash
+Symptoms of bladder
+Sharp abdominal pain
+Pelvic pain
+Lump or mass of breast
+Unusual color or odor to urine
+Hot flashes
+Impotence
+Rib pain
+Bones are painful
+Coryza
+Skin on leg or foot looks infected
+Low self-esteem
+Symptoms of prostate
+Leg pain
+Hand or finger cramps or spasms
+Lacrimation
+Sore throat
+Abnormal involuntary movements
+Nose deformity
+Arm swelling
+Foreign body sensation in eye
+Swelling of scrotum
+Pain during pregnancy
+Premature ejaculation
+Symptoms of eye
+Painful menstruation
+Focal weakness
+Excessive urination at night
+Swollen tongue
+Foot or toe stiffness or tightness
+Back weakness
+Symptoms of the face
+Excessive appetite
+Loss of sensation
+Hand or finger pain
+Excessive anger
+
+Endometrial cancer
+Erythema multiforme
+Acanthosis nigricans
+Acariasis
+Eczema
+Endophthalmitis
+Conversion disorder
+Actinic keratosis
+Carbon monoxide poisoning
+Diabetes insipidus
+Essential tremor
+Acute glaucoma
+Acute kidney injury
+Erectile dysfunction
+Amyotrophic lateral sclerosis ALS
+Degenerative disc disease
+Epidural hemorrhage
+Allergy
+Air embolism
+Conductive hearing loss
+Concussion
+Complex regional pain syndrome
+Granuloma inguinale
+Alcohol intoxication
+Dermatitis due to sun exposure
+Cystic Fibrosis
+Guillain Barre syndrome
+Cystitis
+Fracture of the rib
+Fluid overload
+Conjunctivitis due to allergy
+Eating disorder
+Chronic back pain
+Diaper rash
+Cerebral edema
+Dyshidrosis
+Acute stress reaction
+Cyst of the eyelid
+Ankylosing spondylitis
+Fibromyalgia
+Fibrocystic breast disease
+Chronic kidney disease
+Contact dermatitis
+Cushing syndrome
+Epididymitis
+Diabetic ketoacidosis
+Fracture of the pelvis
+Chickenpox
+Chlamydia
+Carpal tunnel syndrome
+Factitious disorder
+Encephalitis
+Corneal abrasion
+Anxiety
+Amyloidosis
+Drug abuse cocaine
+Diabetic peripheral neuropathy
+Connective tissue disorder
+Fat embolism
+Extrapyramidal effect of drugs
+Adjustment reaction
+Endometrial hyperplasia
+Decubitus ulcer
+Ectropion
+Drug reaction
+Graves disease
+Female infertility of unknown cause
+Chronic pain disorder
+Gonorrhea
+Alzheimer disease
+Central retinal artery or vein occlusion
+Dissociative disorder
+Acne
+Gas gangrene
+Flat feet
+Gout
+Dengue fever
+Chagas disease
+Endometriosis
+Cat scratch disease
+Chancroid
+Chalazion
+Aphakia
+Adhesive capsulitis of the shoulder
+Chondromalacia of the patella
+Ganglion cyst
+De Quervain disease
+Corneal disorder
+Carcinoid syndrome
+Diabetic retinopathy
